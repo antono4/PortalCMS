@@ -1,25 +1,65 @@
-> PortalCMS is now archived; let me know if you think there is a need for this repo in more modern tech.
+<!-- README ini dihasilkan otomatis oleh workflow .github/workflows/generate-readme.yml -->
+<!-- Jangan edit manual; perubahan akan ditim pada run berikutnya. -->
 
-# PortalCMS (1.3.5) (March 2019)
-- PortalCMS is a free and open source developer framework built in C# MVC featuring a powerful integrated page builder with inline editing, drag and drop and content management.
-- PortalCMS gives you a fully featured .NET MVC website out of the box which can be easily extended by web developers.
-- Non technical users can create unlimited pages and blog posts without writing any code using the Page Builder.
-- This repository is now in maintenance, which means there is not currently a roadmap of new features to add, but we will keep it up to date.
+<h1 align="center">Project 👋</h1>
 
-### Learn More
-- Test Drive PortalCMS using our Online Demo: [Online Demo](https://portalcmsdemo.azurewebsites.net)
-- Let us know how you use PortalCMS so we can list you on this repo.
+<p align="center">
+  <strong></strong>
+</p>
 
-### Why Choose Portal CMS?
-- To build a modern website that is good looking, standards compliant and easy to use with minimal effort and time.
-- Get the ability to update your website from any device and any location quickly. 
-- It is lightweight and lean by design, only providing you the minimum features you need to build a valuable website, you can add any bespoke functionality you need by simply extending the C# MVC Website.
-- Portal CMS Can be hosted economically on traditional hosting platforms in addition to Microsoft Azure's App Service.
-- Easy to setup with no scripts or installations to run, everything Portal CMS needs is setup automatically.
-- To give you the freedom to change the framework to suit your requirements
-- To give technical users the ability to develop bespoke functionality quickly.
-- To give non technical users the ability to edit the website in real time.
+<p align="center">
+  <a href="https://github.com/antono4/PortalCMS"><img alt="GitHub repo" src="https://img.shields.io/badge/GitHub-antono4/PortalCMS-blue?logo=github"></a>
+  <a href="https://antono4.github.io/PortalCMS/"><img alt="Live Demo" src="https://img.shields.io/badge/Live%20Demo-Online-success?logo=githubpages"></a>
+  <img alt="Files" src="https://img.shields.io/badge/Files-564-informational">
+  <img alt="Updated" src="https://img.shields.io/badge/Updated-2026-08-13 13:11:56 WIB-lightgrey">
+</p>
 
 ---
 
-> **Created by Antono**
+## 📖 Tentang
+
+Repository **`PortalCMS`** adalah situs web pribadi / portofolio yang diterbitkan melalui **GitHub Pages**. Situs utama berada di [`https://antono4.github.io/PortalCMS/`](https://antono4.github.io/PortalCMS/).
+
+## 🗂️ Struktur Proyek
+
+```
+PortalCMS/
+├── index.html          # Halaman utama (landing / portofolio)
+├── assets/             # Aset statis (css, js, img, vendor)
+├── forms/               # Form handler (PHP)
+```
+
+## 🛠️ Teknologi
+
+Berdasarkan isi repository, proyek ini menggunakan:
+
+- `CSS`
+- `JavaScript`
+
+> Total **564 file** terdeteksi di repository.
+
+## 🚀 Menjalankan Secara Lokal
+
+Karena ini situs statis (HTML/CSS/JS/PHP), cukup buka `index.html` di browser, atau jalankan server lokal:
+
+```bash
+# Tanpa dependency
+python3 -m http.server 8000
+# lalu buka http://localhost:8000
+
+# atau dengan PHP (untuk form handler di forms/)
+php -S localhost:8000
+```
+
+## 📬 Kontak
+
+- GitHub: [antono4](https://github.com/antono4)
+- Situs: [https://antono4.github.io/PortalCMS/](https://antono4.github.io/PortalCMS/)
+
+## 📄 Lisensi
+
+Lihat berkas [`LICENSE`](./LICENSE) untuk informasi lisensi.
+
+---
+
+<sub>README ini di-generate otomatis pada **2026-08-13 13:11:56 WIB** oleh GitHub Actions .</sub>
