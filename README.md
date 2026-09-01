@@ -1,1 +1,26 @@
-Last updated: 2026-09-01 08:56:12 WIB
+# PortalCMS
+
+
+
+## 📋 Overview
+
+This repository contains **568 files** and is built with the following technologies:
+
+Not detected
+
+## 🚀 Quick Start
+
+## ✨ Features
+
+- 📝 Auto-generated documentation
+
+## 🛠️ Technologies
+
+Not detected
+
+## 📄 License
+
+MIT License
+
+---
+*Last updated: 2026-09-01 09:04:29 WIB*
